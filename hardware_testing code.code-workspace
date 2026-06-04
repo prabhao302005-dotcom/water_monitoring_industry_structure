@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../hardware_testing code"
+		},
+		{
+			"name": "waterlevel monitoring",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
